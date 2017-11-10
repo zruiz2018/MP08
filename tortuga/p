@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <meta charset="UFT-8">
+    <meta author="Zahara Ruiz">
+    <meta lang="es-es">
+    <title>El meu primer document</title>
+  </head>
+
+  <body>
+    <h1><font color="green">Lorem ipsum dolor sit amet E=mC<sup>2</sup></font color="green"><h1>
+
+    <h2>ras scelerisque augue at neque tristique, a placerat arcu auctor.<br /> Nullam dignissim ut mauris sit</h2>
+
+    <h3><b><i>Cornellà de Llobregat, 25 de setembre de 2017</h3></b></i>
+
+    <h4><b><i> Zahara Ruiz Fernandez</h4></b></i>
+    Títol
+    <p><code>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque augue at neque tristique, a placerat arcu auctor. Nullam dignissim ut mauris sit amet feugiat. Quisque placerat varius ex nec scelerisque. Integer turpis neque, efficitur eu rhoncus id, egestas nec nulla. Ut maximus sapien lorem, a facilisis diam condimentum eu. Aliquam erat volutpat. Vestibulum eu dui rutrum, fermentum sapien id, molestie augue. Donec vehicula libero vel ex finibus, ut viverra augue auctor. Pellentesque tempor tincidunt mattis. Aliquam erat volutpat. Sed non scelerisque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque augue at neque tristique, a placerat arcu auctor. Nullam dignissim ut mauris sit amet feugiat. Quisque placerat varius ex nec scelerisque. Integer turpis neque, efficitur eu rhoncus id, egestas nec nulla. Ut maximus sapien lorem, a facilisis diam condimentum eu. Aliquam erat volutpat. Vestibulum eu dui rutrum, fermentum sapien id, molestie augue. Donec vehicula libero vel ex finibus, ut viverra augue auctor. Pellentesque tempor tincidunt mattis. Aliquam erat volutpat. Sed non scelerisque Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque augue at neque tristique, a placerat arcu auctor. Nullam dignissim ut mauris sit amet feugiat. Quisque placerat varius ex nec scelerisque. Integer turpis neque, efficitur eu rhoncus id, egestas nec nulla. Ut maximus sapien lorem, a facilisis diam condimentum eu. Aliquam erat volutpat. Vestibulum eu dui rutrum, fermentum sapien id, molestie augue. Donec vehicula libero vel ex finibus, ut viverra augue auctor. Pellentesque tempor tincidunt mattis. Aliquam erat volutpat. Sed non scelerisqueLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque augue at neque tristique, a placerat arcu auctor. Nullam dignissim ut mauris sit amet feugiat. Quisque placerat varius ex nec scelerisque. Integer turpis neque, efficitur eu rhoncus id, egestas nec nulla. Ut maximus sapien lorem, a facilisis diam condimentum eu. Aliquam erat volutpat. Vestibulum eu dui rutrum, fermentum sapien id, molestie augue. Donec vehicula libero vel ex finibus, ut viverra augue auctor.</code></p>
+
+    <p><blockquote><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque augue at neque tristique, a placerat arcu auctor.</i> Nullam dignissim ut mauris sit amet feugiat. Quisque placerat varius ex nec scelerisque. Integer turpis neque, efficitur eu rhoncus id, egestas nec nulla. Ut maximus sapien lorem, a facilisis diam condimentum eu. Aliquam erat volutpat. Vestibulum eu dui rutrum, fermentum sapien id, molestie augue. Donec vehicula libero vel ex finibus, ut viverra augue auctor. Pellentesque tempor tincidunt mattis. Aliquam erat volutpat. Sed non scelerisque
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque augue at neque tristique, a placerat arcu auctor. Nullam dignissim ut mauris sit amet feugiat. Quisque placerat varius ex nec scelerisque. Integer turpis neque, efficitur eu rhoncus id, egestas nec nulla. Ut maximus sapien lorem, a facilisis diam condimentum eu. Aliquam erat volutpat. Vestibulum eu dui rutrum, fermentum sapien id, molestie augue. Donec vehicula libero vel ex finibus, ut viverra augue auctor. Pellentesque tempor tincidunt mattis. Aliquam erat volutpat. Sed non scelerisque<blockquioter></p>
+
+    <img src="tortu.jpg" width="256px" />
+    <hr />
+
+    <h5>Candidats de delegat/da</h5>
+      <ul>
+          <li><font Color="blue">Alejandro</font></li>
+          <li><font Color="pink">Marc Panchame</font></li>
+          <li><font Color="grey">Andrea Ganoza</font></li>
+          <li>Silvia Estall</li>
+      </ul>
+
+      <h5>Resultats de delegat/da</h5>
+        <ol>
+            <li>Marc Panchame</li>
+            <li>Alejandro</li>
+            <li>Andrea Ganoza</li>
+            <li>Silvia Estall</li>
+        </ol>
+    </body>
+</html>
